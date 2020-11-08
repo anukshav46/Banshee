@@ -1,0 +1,516 @@
+.header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+.banshee{
+    width:10%;
+    display:inline-block;
+    margin:0;
+    color:white;
+}
+.Nav{
+    width:80%;
+    text-align:center;
+    color:white;
+    font-size: 1rem;
+    display:inline-block;
+}
+#link{
+    padding-left:2%;
+    text-decoration: none;
+}
+.sign{
+    width:5%;
+    display:inline-block;
+    color:white;
+    margin:0px;
+    font-size: 100%;
+}
+.one{
+    background:url("gameofsurvival.jpg");
+    height:600px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.main{
+    width:100%;
+    color:white;
+    padding-top:7rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.left1{
+    width:40%;
+}
+div.left1 h1{
+    margin-left:-20%;
+}
+div.left1 p{
+    margin-left:5%;
+}
+.right1{
+    width:60%;
+}
+.aa{
+    border:2px solid white;
+    padding-left:10%;
+    padding-right:10%;
+    border-radius:9px;
+    margin-left:5%;
+}
+.two{
+    height:20%;
+    background-color:rgb(0,0,0);
+    width:100%;
+}
+.wwa{
+    height:30%px;
+    color:white;
+    display:inline-block;
+    width:70%;
+    margin-left:15% ;
+    margin-right: 15%;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+.ser{
+    color:white; 
+    width:100% ;
+    height:60%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.ttl{
+    color:white;
+    font-size:2.2rem;
+    font-weight: bolder;
+    padding-top:2%;
+    margin-left:-15%;
+    text-align:center;
+}
+.para{
+    color:rgba(255,255,255,0.6);
+  
+}
+.a{
+    margin-left:10%;
+    font-size:0.99rem;
+    text-align:left;
+    display:inline-block;
+    width:18%;
+    height:180px;
+}
+.b{
+    font-size:0.99rem;
+    display:inline-block;
+    width:18%;
+    height:180px;
+    text-align:left;
+}
+.c{
+    font-size:0.99rem;
+    display:inline-block;
+    width:18%;
+    height:180px;
+    text-align:left;
+}
+.d{
+    font-size:0.99rem;
+    display:inline-block;
+    width:18%;
+    height:180px;
+    text-align:left;
+}
+.three{
+    height:400px;
+    background-color: black;
+    width:100%;
+}
+.services{
+    background-color: black;
+    color:grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width:100%;
+    height:20%;
+    display:inline-block;
+    text-align: center;
+}
+.imgg{
+    height:80%;
+    width:100%;
+}
+div.imgg img{
+    padding-left:25%;
+    padding-right: 25%;
+    width:50%;
+    height:auto;
+}
+.four{
+    height:580px;
+    width:100%;
+    background-color: black;
+    
+}
+.cus{
+    width:100%;
+    height:580px;
+}
+.l1{
+    width:40%;
+    text-align:left;
+   display:inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.l1 p,h1{
+    padding-left: 25%;
+    padding-top: 5%;
+}
+.r1{
+    width:50%;  
+    display:inline-block;
+    float:right;
+    padding-left:10%;
+    font-family:'Courier New', Courier, monospace;
+
+}
+div.r1 p{
+    padding-left: 4%;
+    padding-right: 4%;
+    background-color:rgba(146, 132, 132, 0.233);
+    border-radius: 1rem;
+    width:47%;
+    display: inline-block;
+}
+.ubi{
+    display:inline-block;
+    width:100%;
+    height:290px;
+    overflow: auto;
+}
+div.ubi img{
+    margin-bottom: 6%;
+    margin-top: 6%;
+    display:inline-block;
+    border-radius: 6rem;
+    margin-left:-6%;
+    width:22%;
+}
+.xbox{
+ 
+    width: 100%;
+    height:290px;
+    display:inline- block;
+    overflow:auto;
+}
+div.xbox img{
+    display:inline-block;
+    width:20%;
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-left:-6%;
+    border-radius: 5rem;
+}
+.five{
+    height:700px;
+    background-color: black;
+    color:white;
+    text-align:center;
+}
+.head4{
+    display: inline-block;
+    width:100%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.head4 h1{
+    padding-right:25%;
+    font-size:2rem;
+}
+.images{
+    display:inline-block;
+    height:75%;
+ 
+}
+.row1{
+    height:33%;
+
+    display:block;
+    width:100%;
+}
+.row3{
+    height:33%;
+
+    display:block;
+}
+.row2{
+    height:33%;  
+      display:block;
+
+}
+.rc1{
+    display:inline-block;
+
+    width:25%;
+    float:left;
+     height:100%;
+}
+div.rc1 img{
+    width:80%;
+}
+.rc2{
+    display:inline-block;
+    width:25%;
+    float:left;
+     height:100%;
+  
+}
+div.rc2 img{
+    width:80%;
+}
+.rc3{
+    display:inline-block;
+    width:25%;
+    float:left;
+    height:100%;
+
+}
+div.rc3 img{
+    width:80%;
+}
+.rc4{
+    display:inline-block;
+    width:25%;
+    height:100%;
+
+    float:left;
+}
+div.rc4 img{
+    width:70%;
+}
+.r2c1{
+    display:inline-block;
+
+    width:25%;
+    float:left;
+     height:100%;
+}
+div.r2c1 img{
+    width:85%;
+}
+.r2c2{
+    display:inline-block;
+    width:25%;
+    float:left;
+     height:100%;
+  ;
+}
+div.r2c2 img{
+    width:75%;
+}
+.r2c3{
+    display:inline-block;
+    width:25%;
+    float:left;
+    height:100%;
+
+}
+div.r2c3 img{
+    width:73%;
+}
+.r2c4{
+    display:inline-block;
+    width:25%;
+    height:100%;
+     float:left;
+}
+div.r2c4 img{
+    width:84%;
+}
+.r3c1{
+    display:inline-block;
+
+    width:25%;
+    float:left;
+     height:100%;
+}
+div.r3c1 img{
+    width:80%;
+}
+.r3c2{
+    display:inline-block;
+    width:25%;
+    float:left;
+     height:100%;
+  ;
+}
+div.r3c2 img{
+    width:84%;
+}
+.r3c3{
+    display:inline-block;
+    width:25%;
+    float:left;
+    height:100%;
+
+}
+div.r3c3 img{
+    width:76%;
+}
+.r3c4{
+    display:inline-block;
+    width:25%;
+    height:100%;
+
+    float:left;
+}
+div.r3c4 img{
+    width:75%;
+}
+.six{
+    height:500px;
+    background-color: black;
+}
+.send{
+    width:100%;
+    height:500px;
+    color:white;
+    display: inline-block;
+}
+div.send h1{
+ padding-left: 40%; 
+ padding-right:40%;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.lefts{
+    width:30%;
+    display: inline-block;
+}
+.rights{
+    width:50%;
+    float:right;
+    color:white;
+}
+div.lefts img{
+    display: inline-block;
+    width:70%;
+    padding-left:10%;
+}
+div.rights p{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right:50%;
+    color:grey;
+}
+.fm{
+    color:grey;
+
+}
+input[type=name]{
+    border-bottom:1px solid grey;
+    border-left: 0px;
+    border-right: 0px;
+    border-top:0px;
+    color:white;
+    width:40%;
+    padding-top:3%;
+    background-color: black;
+}
+input[type=name]{
+    padding-top:3%;
+    border-bottom:1px solid grey;
+    border-left: 0px;
+    border-right: 0px;
+    border-top:0px;
+    color:white;
+    width:40%;
+    background-color: black;
+}
+input[type=tel]{
+    border-bottom:1px solid grey;
+    border-left: 0px;
+    border-right: 0px;
+    border-top:0px;
+    color:white;
+    width:40%;
+    padding-top:3%;
+    background-color: black;
+}
+input[type=email]{
+    border-bottom:1px solid grey;
+    border-left: 0px;
+    border-right: 0px;
+    border-top:0px;
+    padding-top:3%;
+    color:white;
+    width:40%;
+    background-color: black;
+}
+input[type=text]{
+    border-bottom:1px solid grey;
+    border-left: 0px;
+    border-right: 0px;
+    border-top:0px;
+    color:white;
+    padding-top:3%;
+    width:40%;
+    background-color: black;
+}
+.footer{
+    height:300px;
+}
+.foot{
+    padding-top: 10%;
+    height:300px;
+    width:100%;
+    display: inline-block;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.m{
+    width:10%;
+    height:200px;
+    display:inline-block;
+    padding-left: 5%;
+}
+div.m p{
+    color:grey;
+}
+.n{
+    width:15%;
+    height:200px;
+    display: inline-block;
+}
+div.n p{
+    color:grey;
+}
+.o{
+    display:inline-block;
+    width:20%;
+    height:200px;
+}
+div.o p{
+    color:grey;
+}
+.pq{
+    display: inline-block;
+    width:20%;
+    height:200px;
+}
+div.pq p{
+    color:grey;
+}
+.q{
+    width:25%;
+    display: inline-block;
+}
+div.q img{
+    width:20%;
+}
+
+
+
+
+
+
+
+
+
+
